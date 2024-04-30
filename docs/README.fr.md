@@ -49,7 +49,7 @@ Une fois que tout votre code est saisi dans Carbon, vous pouvez personnaliser vo
 
 #### Export / Partage
 
-Une fois que vous avez personnalisé votre image, vous pouvez soit twetter le lien vers l’image, soit l'enregistrer directement.
+Une fois que vous avez personnalisé votre image, vous pouvez soit tweetter le lien vers l’image, soit l'enregistrer directement.
 
 Si vous utilisez le bouton &apos;Tweet&apos;, Carbon rendra automatiquement votre image accessible aux utilisateurs malvoyants. Toutefois, si vous souhaitez tweeter manuellement votre image carbone, veuillez vérifier [comment rendre les images accessibles aux utilisateurs malvoyants de Twitter](https://help.twitter.com/fr/using-twitter/picture-descriptions).
 
