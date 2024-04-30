@@ -158,7 +158,7 @@ Finally, you can also embed saved snippets or GitHub gists using `carbon.now.sh/
 
 ##### Use the Tweet button
 
-The Tweet button will not only share the image on Twitter, but it will also correctly encode the `alt` text to ensure your images are accessible. However, if you want to tweet image yourself, please check out [how to make your Twitter images accessible](https://help.twitter.com/en/using-twitter/picture-descriptions).
+The Tweet button will not only share the image on Twitter, but it will also correctly encode the `alt` text to ensure your images are accessible. However, if you want to tweet the image yourself, please check out [how to make your Twitter images accessible](https://help.twitter.com/en/using-twitter/picture-descriptions).
 
 ##### Download the image directly
 
@@ -192,7 +192,7 @@ Check out these projects our awesome community has created:
 - [CLI `carbon-now-cli`](https://github.com/mixn/carbon-now-cli) - Open a file in Carbon or download it directly using `carbon-now`, featuring an interactive mode, selective highlighting and more
 - [CodeExpander](https://codeexpander.com) - A smart GitHub gist client with the TextExpander features
 - [`nef`](https://github.com/bow-swift/nef#-exporting-carbon-code-snippets) - Export multiple Carbon code snippets from `Xcode Playground`.
-- [`@carbonshbot`](https://t.me/carbonshbot) - A Telegram chatbot which takes in a code snippet or gist URL and generates an Carbon image
+- [`@carbonshbot`](https://t.me/carbonshbot) - A Telegram chatbot which takes in a code snippet or gist URL and generates a Carbon image
 - [R `carbonate`](https://yonicd.github.io/carbonate/) - Iteratively manipulate image aesthetics in `R` and either open in Carbon or download directly.
 - [Carbon for Slack](https://github.com/faisalsayed10/carbon-slack) - Use Carbon directly in Slack. Just invoke the `/carbon` command.
 
